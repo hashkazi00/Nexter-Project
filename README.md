@@ -1,7 +1,7 @@
 # Course: [Advanced CSS and SASS ](https://www.udemy.com/advanced-css-and-sass/)
 ## Author: Jonas Schmedtmann
 ## Student: Sahil Kazi
-##### [See the live demo ]()
+##### [See the live demo ](https://nexter-project.vercel.app/)
 ---
 
 ## Tools used in this course:
